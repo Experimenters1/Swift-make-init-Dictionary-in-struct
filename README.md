@@ -1,6 +1,6 @@
 # Swift-make-init-Dictionary-in-struct
 Swift make init Dictionary in struct
-### 
+### 1
 
 ```swift
 
@@ -46,6 +46,8 @@ class YourViewController: UIViewController {
 ```
 
 ### 
+
+### 2
 ```swift
 import Foundation
 
